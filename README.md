@@ -18,3 +18,9 @@
 * 'git branch' - list local branches
 * 'git branch branchName' - create new branch 'branchName'
 * 'git checkout branchName' - move to branch 'branchName'
+
+## Remote Commands 
+
+* 'git remote add origin URL' - set 'origin' as alias for remote repo URL
+* 'git push origin branchName' push local commits to 'origin' remo on branch 'branchName'
+
