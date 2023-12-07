@@ -9,3 +9,5 @@
 ## Info Commands
 * 'git status' - show state of local working directory
 * 'git log' - list commit history
+* 'git log --oneline' - list commit history, compact format
+* 'git config -l' - list local git configuration
